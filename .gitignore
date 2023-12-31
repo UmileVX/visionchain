@@ -1,0 +1,9 @@
+# MacOS
+.DS_Store
+
+# vscode
+.vscode/
+
+# python
+__pycache__/
+*.py[cod]
